@@ -49,3 +49,4 @@ Anything from the website that actively hinders that mission statement should be
   - [Empathy Map Non-member Non-communicators](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/EmpathyMaps/EmpathyMap_Non-Communicator_Non-members.pdf)
   - [Empathy Map Advertisers](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/EmpathyMaps/EmpathyMap_Advertisers.pdf)
 - [User Story Map(pdfExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(pdfExport).pdf) Or [User Story Map(ImageExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(ImageExport).pdf) (The image export is probably easier to read)
+- [Customer Notes Feb 8](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/CustomerNotesFeb8.pdf)

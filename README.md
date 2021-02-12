@@ -29,7 +29,8 @@ There is a great desire for the website to be refactored and improved.
 ## Business Opportunity
 The IABC Regina chapter’s website is in need of improvement.  The means for IABC Regina to communicate with its users is limited by a website which does not meet their wants or needs. A redesign of their front-end and back-end interfaces would certainly enable a better tool in helping all IABC Regina members to gain access to the opportunities IABC Regina offers. 
 
-A redesign’s main goals would be to fix the pain points IABC's executive team has. Fix the navigation and make it pretty and functional, on both desktop and mobile. Simplify the website as much as possible, including automated administration wherever desired.  
+A redesign’s main goals would be to fix the pain points IABC's executive team has. Fix the navigation and make it pretty and functional, on both desktop and mobile. Simplify the website as much as possible, including automated administration wherever desired.
+
 The mission statement of IABC Regina is: 
 
 >“Our mission is to connect our members through learning, networking and mentoring opportunities, and to promote business communications standards.”

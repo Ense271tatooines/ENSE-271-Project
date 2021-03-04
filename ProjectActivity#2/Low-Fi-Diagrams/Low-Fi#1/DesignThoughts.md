@@ -6,7 +6,7 @@ I used a metaphor of a magnifying class to represent the search ability.
 ## General Page layout
 On most of the pages the main text and body that the users are interested are enclosed in a card scheme. This helps to determine the gestalt principal of figure-ground.
 The card 'pops' out easier when enclosed, making it seem like the cards are the foreground of the site. It also helps relate the information inside as being group together, furthering 
-its relatedness.
+its connectiveness.
 
 ## Images
 Images are designed to always be near the thing they are related too. Users see things as close together as related, so the images should be related to the 

@@ -50,3 +50,15 @@ Anything from the website that actively hinders that mission statement should be
   - [Empathy Map Advertisers](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/EmpathyMaps/EmpathyMap_Advertisers.pdf)
 - [User Story Map(pdfExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(pdfExport).pdf) Or [User Story Map(ImageExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(ImageExport).pdf) (The image export is probably easier to read)
 - [Customer Notes Feb 8](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/CustomerNotesFeb8.pdf)
+
+## Project Activity #2 Documents
+- [Asset Inventory(pdf)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/AssetInventory/AssetInventory.pdf)
+- [Low-fi Diagrams](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams)
+  - [Low-Fi#1](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams/Low-Fi%231)
+  - [Low-Fi#2](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams/Low-Fi%232)
+  - [Low-Fi#3](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams/Low-Fi%233)
+  - [Mobile Exploration](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/Low-Fi-Diagrams/MobileExplorations/MobileLow-Fi%231.pdf)
+- [Site Maps](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/SiteMaps)
+  - [SiteMap#1](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/SiteMaps/SiteMap%231.pdf)
+- [User Story Map(pdfExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(pdfExport).pdf) Or [User Story Map(ImageExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(ImageExport).pdf) (The image export is probably easier to read)
+- [Customer Notes Mar 1](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/CustomerNotesMar1.pdf)

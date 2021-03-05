@@ -52,7 +52,7 @@ Anything from the website that actively hinders that mission statement should be
 - [Customer Notes Feb 8](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/CustomerNotesFeb8.pdf)
 
 ## Project Activity #2 Documents
-- [Asset Inventory(pdf)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/AssetInventory/AssetInventory.pdf)
+- [Asset Inventory(pdf)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/AssetInventory/Asset-Inventory-activity2.pdf)
 - [Low-fi Diagrams](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams)
   - [Low-Fi#1](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams/Low-Fi%231)
   - [Low-Fi#2](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/Low-Fi-Diagrams/Low-Fi%232)

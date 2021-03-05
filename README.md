@@ -60,5 +60,7 @@ Anything from the website that actively hinders that mission statement should be
   - [Mobile Exploration](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/Low-Fi-Diagrams/MobileExplorations/MobileLow-Fi%231.pdf)
 - [Site Maps](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%232/SiteMaps)
   - [SiteMap#1](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/SiteMaps/SiteMap%231.pdf)
+  - [SiteMap#2](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/SiteMaps/Sitemap%232.pdf)
+  - [SiteMap#3](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/SiteMaps/Sitemap%233.pdf)
 - [User Story Map(pdfExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(pdfExport).pdf) Or [User Story Map(ImageExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(ImageExport).pdf) (The image export is probably easier to read)
 - [Customer Notes Mar 1](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/CustomerNotesMar1.pdf)

@@ -78,3 +78,4 @@ Anything from the website that actively hinders that mission statement should be
 - [WordPress Screenshots](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%234/WebsiteScreenshots.pdf)
 - [WordPress Backup(Uregina Link)](http://download.uregina.ca/DownloadAttachment/539cc41e254485499a8524ade91f8e27/)
 - [WordPress Backup(GitHub Link)](https://github.com/Ense271tatooines/ENSE-271-Project/tree/main/ProjectActivity%234/Backups)
+- [Customer Notes Apr 12](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%234/CustomerNotesApr12.pdf)

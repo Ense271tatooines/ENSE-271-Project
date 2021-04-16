@@ -64,3 +64,9 @@ Anything from the website that actively hinders that mission statement should be
   - [SiteMap#3](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/SiteMaps/Sitemap%233.pdf)
 - [User Story Map(pdfExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(pdfExport).pdf) Or [User Story Map(ImageExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%231/UserStoryMap(ImageExport).pdf) (The image export is probably easier to read)
 - [Customer Notes Mar 1](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%232/CustomerNotesMar1.pdf)
+
+## Project Activity #3 Documents
+- [Hi-Fi Desktop/Mobile Design File](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%233/Hi-Fi-Destop-Mobile.xd)
+- [Details Relating to Design Topics](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%233/DetailsRelatingToDesignTopics.pdf)
+- [Customer Notes Mar 15](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%233/CustomerNotesMarch15.pdf)
+- [User Story Map(pdfExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%233/UserStoryMap(pdfExport).pdf) Or [User Story Map(ImageExport)](https://github.com/Ense271tatooines/ENSE-271-Project/blob/main/ProjectActivity%233/UserStoryMap(ImageExport).pdf)
